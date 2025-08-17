@@ -12,7 +12,14 @@ This is **not a full rebuild** — just a concept demo to show modernization pos
 - **Wireframes (hand sketches/Figma)** → to guide layout decisions before prompting Bolt  
 - **Bolt.new** → for AI-assisted code generation and rapid prototyping  
 - **GitHub** → for version control and documentation  
-- **Notes/Process Docs** → to explain what was done and why  
+- **Notes/Process Docs** → to explain what was done and why
+
+---
+
+## 🚀 Live Preview
+👉 [Link to Bolt.new deployment or GitHub Pages preview]  
+
+*(replace this with your live preview link when ready)*
 
 ---
 
@@ -32,13 +39,6 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 2. Translated that wireframe into structured prompts for Bolt.new.  
 3. Ran multiple generations, refined until the layout matched the design intent.  
 4. Packaged the results here as a concept demo.  
-
----
-
-## 🚀 Live Preview
-👉 [Link to Bolt.new deployment or GitHub Pages preview]  
-
-*(replace this with your live preview link when ready)*
 
 ---
 
