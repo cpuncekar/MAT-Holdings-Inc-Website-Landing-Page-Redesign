@@ -28,7 +28,8 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 - The hero section felt heavy and outdated, with too much dark imagery.  
 - Navigation could be simplified and made more modern.  
 - Key stats (employees, factories, revenue) deserved more visual emphasis.  
-- Content blocks needed more whitespace and a cleaner grid layout.  
+- Content blocks needed more whitespace and a cleaner grid layout.
+- Add in an FAQ section to help visitors/clients/customers answer quick questions they may have.  
 
 **My approach:**  
 1. Sketched out a quick wireframe of an updated homepage flow:  
