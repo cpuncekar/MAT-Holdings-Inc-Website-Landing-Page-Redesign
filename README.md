@@ -21,6 +21,7 @@ This version is a reduced showcase — some assets, images, and copy were intent
 
 ## 🚀 Live Preview
 👉 [Live Demo](https://mat-holdings-corpora-n4hl.bolt.host)
+Copy and text link: https://mat-holdings-corpora-n4hl.bolt.host
 
 ---
 
