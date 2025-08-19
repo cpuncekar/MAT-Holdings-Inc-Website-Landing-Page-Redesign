@@ -9,11 +9,10 @@ This is **not a full rebuild** — just a concept demo to show modernization pos
 ---
 
 ## 🛠️ Tech & Tools Used
-- **Wireframes (hand sketches/Figma)** → to guide layout decisions before prompting Bolt  
-- **Bolt.new** → for AI-assisted code generation and rapid prototyping  
-- **GitHub** → for version control and documentation
+- **Bolt.new** → for AI-assisted code generation and rapid prototyping
 - **Midjourney** Create images in midjourney where appropriate
 - **Photoshop** Light photoshop for resizing of images
+- **GitHub** → for version control and documentation
 
 ---
 
