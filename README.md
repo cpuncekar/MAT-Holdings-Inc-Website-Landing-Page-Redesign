@@ -48,7 +48,7 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 3. Ran multiple generations, refined until the layout matched the design intent.  
 4. Packaged the results here as a concept demo.  
 
-**Lowfi Wireframe created in Figma:** 
+**Low-fi Mockup created in Figma:** 
 ![Landing Page Low-Fi Test Mockup](https://raw.githubusercontent.com/cpuncekar/MAT-Holdings-Inc-Website-Landing-Page-Redesign/main/02-Landing-Page-LowFi-test-mockup.png)
 ---
 
