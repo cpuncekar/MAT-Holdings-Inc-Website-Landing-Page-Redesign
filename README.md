@@ -59,6 +59,11 @@ These comparisons reinforced the idea that **WordPress** (with a modern builder/
 - Layer in SEO optimization, analytics, and performance tuning  
 - Create a unified design system for consistent branding across all pages  
 
+## Issues with AI/ what it is Good For
+- AI is great to get ideas out there and experiment
+- AI is great for landing pages and or a splash advertisment page
+- AI does take some time to tweak and make updates
+- AI is not a magic bullet
 ---
 
 ## ⚡ Final Notes
