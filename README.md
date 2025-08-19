@@ -5,6 +5,7 @@ This is a **proof-of-concept redesign** of the MAT Holdings, Inc. website.
 The goal was to demonstrate how AI-assisted tools like **Bolt.new** can speed up web design while still allowing for intentional design decisions and refinement.  
 
 This is **not a full rebuild** — just a concept demo to show modernization possibilities.
+This version is a reduced showcase — some assets, images, and copy were intentionally left out.
 
 ---
 
