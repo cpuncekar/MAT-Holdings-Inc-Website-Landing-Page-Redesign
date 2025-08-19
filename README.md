@@ -20,9 +20,7 @@ This version is a reduced showcase — some assets, images, and copy were intent
 ---
 
 ## 🚀 Live Preview
-👉 [Link to Bolt.new deployment or GitHub Pages preview]  
-
-*(replace this with your live preview link when ready)*
+👉 [Live Demo](https://mat-holdings-corpora-n4hl.bolt.host)
 
 ---
 
