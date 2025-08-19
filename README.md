@@ -59,9 +59,10 @@ These comparisons reinforced the idea that **WordPress** (with a modern builder/
 
 ## 📝 Next Steps (If This Were a Full Project)
 - Expand beyond homepage/landing page → About, Industries, Careers, Contact, All other pages needed
-- Layer in SEO optimization, analytics, and performance tuning  
+- Add in about information section to the top of the homepage
 - Create a unified design system for consistent branding across all pages
-- Would of course add in actual logos, real copy, and images 
+- Would of course add in actual logos, real copy, and images
+- Layer in SEO optimization, analytics, and performance tuning
 
 ## Issues with AI/ what it is Good For
 - AI is great to get ideas out there and experiment
