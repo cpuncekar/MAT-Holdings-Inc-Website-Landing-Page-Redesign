@@ -35,6 +35,8 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 - Automotive and Consumer buttons should be highlighted on the landing page with their own tabs. A link to learn more that goes to another info page(s) would be ideal later on.
 - Created images in Midjourney to have image placeholders but also give an updated look and experiment with what is possible for MAT.
 
+![Old MAT Holdings Website Notes](01-MAT-Holding-Inc-Old-Website-Notes.png)
+
 **My approach:**  
 1. Sketched out a quick wireframe of an updated homepage flow:  
    - Hero with bold headline + CTA  
