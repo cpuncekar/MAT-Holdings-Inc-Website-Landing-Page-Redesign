@@ -57,7 +57,7 @@ As part of this exercise, I looked at a few similar companies in the diversified
 - **Marmon Holdings** → runs on WordPress  
 - **A.O. Smith** → runs on Salesforce Experience Cloud  
 - **Central Garden & Pet** → runs on Sitecore  
-
+*This is what I found in my research, not sure if these are direct competitors.
 These comparisons reinforced the idea that **WordPress** (with a modern builder/theme) would be a strong long-term platform for MAT, balancing scalability with ease of use.
 
 ---
