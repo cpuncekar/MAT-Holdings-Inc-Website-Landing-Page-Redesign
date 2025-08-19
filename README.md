@@ -10,6 +10,7 @@ This version is a reduced showcase — some assets, images, and copy were intent
 ---
 
 ## 🛠️ Tech & Tools Used
+- **Figma** → add notes to the the original landing page, create a low fidelity mockup for the new layout
 - **Bolt.new** → for AI-assisted code generation and rapid prototyping
 - **ChatGPT** → helping with prompt creation
 - **Midjourney** Create images in midjourney where appropriate
