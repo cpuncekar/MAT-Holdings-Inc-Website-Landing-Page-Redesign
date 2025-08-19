@@ -25,12 +25,12 @@ This is **not a full rebuild** — just a concept demo to show modernization pos
 
 ## 🎨 Design Decisions & Thought Process
 I started by reviewing MAT Holdings’ existing homepage. A few things stood out:  
-- The hero section felt heavy and outdated, with too much dark imagery.  
-- Navigation could be simplified and made more modern.  
+- The hero section felt heavy and outdated, with too much dark imagery.
 - Key stats (employees, factories, revenue) deserved more visual emphasis.  
 - Content blocks needed more whitespace and a cleaner grid layout.
 - Add in an FAQ section to help visitors/clients/customers answer quick questions they may have.
-- Created images in Midjourney to have image placeholders but also give an updated look
+- Automotive and Consumer buttons should be highlighted on the landing page with their own tabs. A link to learn more that goes to another info page would be ideal later on.
+- Created images in Midjourney to have image placeholders but also give an updated look and experiment with what is possible for MAT.
 
 **My approach:**  
 1. Sketched out a quick wireframe of an updated homepage flow:  
