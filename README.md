@@ -11,8 +11,8 @@ This is **not a full rebuild** — just a concept demo to show modernization pos
 ## 🛠️ Tech & Tools Used
 - **Wireframes (hand sketches/Figma)** → to guide layout decisions before prompting Bolt  
 - **Bolt.new** → for AI-assisted code generation and rapid prototyping  
-- **GitHub** → for version control and documentation  
-- **Notes/Process Docs** → to explain what was done and why
+- **GitHub** → for version control and documentation
+- **Midjourney** Create images in midjourney where appropriate
 
 ---
 
@@ -29,7 +29,8 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 - Navigation could be simplified and made more modern.  
 - Key stats (employees, factories, revenue) deserved more visual emphasis.  
 - Content blocks needed more whitespace and a cleaner grid layout.
-- Add in an FAQ section to help visitors/clients/customers answer quick questions they may have.  
+- Add in an FAQ section to help visitors/clients/customers answer quick questions they may have.
+- Created images in Midjourney to have image placeholders but also give an updated look
 
 **My approach:**  
 1. Sketched out a quick wireframe of an updated homepage flow:  
