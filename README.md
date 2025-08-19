@@ -13,6 +13,7 @@ This is **not a full rebuild** — just a concept demo to show modernization pos
 - **Bolt.new** → for AI-assisted code generation and rapid prototyping  
 - **GitHub** → for version control and documentation
 - **Midjourney** Create images in midjourney where appropriate
+- **Photoshop** Light photoshop for resizing of images
 
 ---
 
