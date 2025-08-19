@@ -29,7 +29,7 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 - Key stats (employees, factories, revenue) deserved more visual emphasis.  
 - Content blocks needed more whitespace and a cleaner grid layout.
 - Add in an FAQ section to help visitors/clients/customers answer quick questions they may have.
-- Automotive and Consumer buttons should be highlighted on the landing page with their own tabs. A link to learn more that goes to another info page would be ideal later on.
+- Automotive and Consumer buttons should be highlighted on the landing page with their own tabs. A link to learn more that goes to another info page(s) would be ideal later on.
 - Created images in Midjourney to have image placeholders but also give an updated look and experiment with what is possible for MAT.
 
 **My approach:**  
