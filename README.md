@@ -10,6 +10,7 @@ This is **not a full rebuild** — just a concept demo to show modernization pos
 
 ## 🛠️ Tech & Tools Used
 - **Bolt.new** → for AI-assisted code generation and rapid prototyping
+- **ChatGPT** → helping with prompt creation
 - **Midjourney** Create images in midjourney where appropriate
 - **Photoshop** Light photoshop for resizing of images
 - **GitHub** → for version control and documentation
