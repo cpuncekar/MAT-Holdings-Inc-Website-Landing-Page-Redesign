@@ -49,6 +49,8 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 **Low-fi Mockup created in Figma:** 
 ![Landing Page Low-Fi Test Mockup](https://raw.githubusercontent.com/cpuncekar/MAT-Holdings-Inc-Website-Landing-Page-Redesign/main/02-Landing-Page-LowFi-test-mockup.png)
 ---
+**Screenshot of Bolt.new:**
+![Bolt.new Project](https://raw.githubusercontent.com/cpuncekar/MAT-Holdings-Inc-Website-Landing-Page-Redesign/main/01-bolt-new-working.png)
 
 ## 📊 Competitor Research
 As part of this exercise, I looked at a few similar companies in the diversified manufacturing/consumer products space:  
