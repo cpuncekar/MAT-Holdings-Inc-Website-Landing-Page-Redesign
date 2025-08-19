@@ -54,10 +54,10 @@ These comparisons reinforced the idea that **WordPress** (with a modern builder/
 ---
 
 ## 📝 Next Steps (If This Were a Full Project)
-- Expand beyond homepage → About, Industries, Careers, Contact  
-- Build a full WordPress site (recommend WP Engine hosting + Elementor or Block Editor for flexibility)  
+- Expand beyond homepage/landing page → About, Industries, Careers, Contact, All other pages needed
 - Layer in SEO optimization, analytics, and performance tuning  
-- Create a unified design system for consistent branding across all pages  
+- Create a unified design system for consistent branding across all pages
+- Would of course add in actual logos, real copy, and images 
 
 ## Issues with AI/ what it is Good For
 - AI is great to get ideas out there and experiment
