@@ -35,6 +35,7 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 - Automotive and Consumer buttons should be highlighted on the landing page with their own tabs. A link to learn more that goes to another info page(s) would be ideal later on.
 - Created images in Midjourney to have image placeholders but also give an updated look and experiment with what is possible for MAT.
 
+**Notes created in Figma:** 
 ![Old Site Notes](https://raw.githubusercontent.com/cpuncekar/MAT-Holdings-Inc-Website-Landing-Page-Redesign/main/01-MAT-Holding-Inc-Old-Website-Notes.png)
 
 **My approach:**  
@@ -47,6 +48,8 @@ I started by reviewing MAT Holdings’ existing homepage. A few things stood out
 3. Ran multiple generations, refined until the layout matched the design intent.  
 4. Packaged the results here as a concept demo.  
 
+**Lowfi Wireframe created in Figma:** 
+![Landing Page Low-Fi Test Mockup](https://raw.githubusercontent.com/cpuncekar/MAT-Holdings-Inc-Website-Landing-Page-Redesign/main/02-Landing-Page-LowFi-test-mockup.png)
 ---
 
 ## 📊 Competitor Research
